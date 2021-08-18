@@ -1,0 +1,8 @@
+.slide img{
+    height: 450px;
+}
+.slide h5,p{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgba(236, 236, 236, 0.384);
+}
