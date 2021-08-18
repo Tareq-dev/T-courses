@@ -1,0 +1,16 @@
+
+
+
+
+.courses{
+    background-color:rgb(207, 209, 205);
+    width: 280px;
+    height: 380px;
+    border : 1px solid gray;
+    border-radius : 5px;
+    box-shadow : 5px 5px 10px rgb(175, 179, 171);
+    display: inline-block;
+    margin: 2%;
+    margin-left: 5%;
+    padding: 2%;
+}
