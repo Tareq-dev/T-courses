@@ -1,0 +1,17 @@
+.course{
+    background-color:rgb(166, 192, 141);
+    width: 320px;
+    height: 480px;
+    border : 1px solid rgb(106, 182, 182);
+    border-radius : 5px;
+    box-shadow : 5px 5px 10px rgb(197, 197, 197);
+    display: inline-block;
+    margin: 2%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.course img{
+    height: 220px;
+    width: 273px;
+    border-radius: 5px;
+}

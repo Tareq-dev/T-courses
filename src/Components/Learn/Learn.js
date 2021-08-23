@@ -1,5 +1,5 @@
 import React from 'react';
-import './Learn.css';
+import '../Learn/Learn.css';
 import book from '../../images/book.png';
 import brain from '../../images/brain.png';
 import light from '../../images/light.png';
